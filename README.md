@@ -4,9 +4,9 @@ I'm a software development student, currently focused on learning **Java** and *
 
 I use this GitHub to document my learning journey. Each project here was built to help me practice and understand new concepts, starting from the basics of OOP all the way to more complex logic.
 
-- 🔭 I’m currently learning about **OOP fundamentals**.
-- 👨‍💻 My goal is to become a backend software engineer.
-- 🌱 I'm always trying to improve my code and learn new things.
+-  I’m currently learning about **OOP fundamentals**.
+-  My goal is to become a backend software engineer.
+-  I'm always trying to improve my code and learn new things.
 
 ---
 
@@ -22,7 +22,7 @@ I use this GitHub to document my learning journey. Each project here was built t
 
 ---
 
-### 🚀 My Pinned Projects
+### 🔥 My Pinned Projects
 
 A few projects I've built while learning:
 
