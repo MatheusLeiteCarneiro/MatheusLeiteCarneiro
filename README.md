@@ -28,6 +28,7 @@ A few projects I've built while learning:
 
 | Project | Description | What I Practiced |
 | :--- | :--- | :--- |
+| **[employee-management-cli](https://github.com/MatheusLeiteCarneiro/employee-management-cli)** | A CLI for managing employees and payments. | **OOP (Polymorphism, Inheritance and Abstraction)**, **Input validation**, `List` & `ArrayList` |
 | **[hotel-booking-cli](https://github.com/MatheusLeiteCarneiro/hotel-booking-cli)** | A booking CLI that checks for date conflicts. | **OOP (Composition)**, **Date Conflict Logic**, **Smart Enums**, `LocalDate` & `ChronoUnit` |
 | **[product-manager-cli](https://github.com/MatheusLeiteCarneiro/product-manager-cli)** | A simple CLI for managing a product inventory (CRUD). | **OOP (Encapsulation)**, **CRUD with ArrayLists**, **Input Validation**, **Git Workflow** & `.gitignore` |
 | **[bank-account-cli](https://github.com/MatheusLeiteCarneiro/bank-account-cli)** | A CLI simulation of a bank account. | **OOP (Encapsulation)**, **Transactional Logic**, **Boolean-driven Loops**, `LocalDateTime` |
