@@ -1,13 +1,12 @@
 ### Hi there, I'm Matheus 👋
 
-I'm a software development student, currently focused on learning **Java** and **backend technologies**.
+I'm a software development student deeply focused on **Java Backend Engineering**.
 
-I use this GitHub to document my learning journey. Each project here was built to help me practice and understand new concepts, starting from the basics of OOP all the way to more complex logic.
+I use this GitHub to document my journey from the basics to professional architecture. My projects focus on understanding *how things work under the hood*, avoiding "framework magic" to master the core concepts of **Web Development** and **Data Persistence**.
 
--  I’m currently learning about **OOP fundamentals**.
--  My goal is to become a backend software engineer.
--  I'm always trying to improve my code and learn new things.
-
+- 🔭 I’m currently transitioning to the **Spring Boot ecosystem**, applying my deep knowledge of **RESTful APIs** and **SQL Optimization**.
+- 🎯 My goal is to become a high-performance **Backend Software Engineer**.
+- ⚡ I value clear code, strong typing, and understanding memory management.
 ---
 
 ### 🛠️ Tech & Tools I Use
