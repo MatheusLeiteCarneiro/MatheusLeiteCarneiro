@@ -11,7 +11,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00bdff&text=Main%20Skills&height=60&fontSize=30" alt="Main Skills" />
 
-  <br><br>
+  <br>
   
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -24,7 +24,7 @@
   <img align="center" alt="Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
-  <br><br><br>
+  <br><br>
 
 </div>
 
