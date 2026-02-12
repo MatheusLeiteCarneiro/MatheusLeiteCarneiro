@@ -1,47 +1,39 @@
-### Hi there, I'm Matheus 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bdff&height=120&section=header"/>
 
-I'm a software development student deeply focused on **Java Backend Engineering**.
 
-I use this GitHub to document my journey from the basics to professional architecture. My projects focus on understanding *how things work under the hood*, avoiding "framework magic" to master the core concepts of **Web Development** and **Data Persistence**.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bdff&size=35&center=true&vCenter=true&width=1000&lines=Matheus+Leite+Carneiro;Backend+Java+Developer;Software+Engineering+student+at+FIAP)](https://git.io/typing-svg) 
 
-- 🔭 I’m currently transitioning to the **Spring Boot ecosystem**, applying my deep knowledge of **RESTful APIs** and **SQL Optimization**.
-- 🎯 My goal is to become a high-performance **Backend Software Engineer**.
-- ⚡ I value clear code, strong typing, and understanding memory management.
----
+[![Matheus Leite Carneiro github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusLeiteCarneiro&bg_color=000000&color=00bdff&line=00bdff&point=50d2ff&area=true&hide_border=true)](https://github.com/MatheusLeiteCarneiro/github-readme-activity-graph)
 
-### 🛠️ Tech & Tools I Use
+--- 
 
-**Languages & Frameworks**
-<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-%23000000.svg?style=for-the-badge&logo=jakartaee&logoColor=white)
+<div align="center">
 
-**Database**
-<br>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00bdff&text=Main%20Skills&height=60&fontSize=30" alt="Main Skills" />
 
-**Tools & DevOps**
-<br>
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  <br><br>
+  
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Hibernate" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" />
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="JUnit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" />
+  <img align="center" alt="Swagger" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
+  <img align="center" alt="IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img align="center" alt="Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+  <br><br><br>
 
-**IDEs**
-<br>
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
----
-
-### 🔥 My Pinned Projects
-
-A few projects I've built while learning:
-
-| Project | Description | What I Practiced |
-| :--- | :--- | :--- |
-| **[EmployeeAPI](https://github.com/MatheusLeiteCarneiro/EmployeeAPI)** | High-performance Employee Management API without frameworks. | RESTful Principles, Servlet Filters & Request Chain, Connection Lifecycle Management using `HikariCP`, Manual Architectural Implementation, JSON serialization/deserialization manually using `Jackson`. | 
-| **[academic-manager-cli](https://github.com/MatheusLeiteCarneiro/academic-manager-cli)** | Academic management system (CLI). | OOP principles, Collection Framework, and the Stream API for data manipulation. |
-| **[JPA-LibraryManager](https://github.com/MatheusLeiteCarneiro/JPA-LibraryManager)** | ull CRUD operations for Authors and Books, demonstrating entity relationships. | ORM using JPA & HIBERNATE. |
-| **[payment-processor-cli](https://github.com/MatheusLeiteCarneiro/payment-processor-cli)** | A CLI for processing contract payments with dynamic fee calculation. |OOP (Strategy Pattern, Interfaces, DI), Custom Exceptions, LocalDate. |
+</div>
 
 ---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheusleitecarneiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:dev.matheuscarneiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bdff&height=120&section=footer"/>
+
