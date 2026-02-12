@@ -29,6 +29,30 @@
 </div>
 
 ---
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00bdff&text=About%20Me&height=60&fontSize=30" alt="About me" />
+  <br>
+  <p>
+    I’m a Software Engineering student at FIAP.
+  </p>
+
+  <p>
+    My current focus is backend development with Java and Spring.
+  </p>
+
+  <p>
+    I enjoy understanding how systems work internally and building clean, well-structured solutions.
+  </p>
+
+  <p>
+    I’m constantly learning and evolving as a developer.
+  </p>
+
+  <br><br>
+</div>
+
+--- 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheusleitecarneiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
