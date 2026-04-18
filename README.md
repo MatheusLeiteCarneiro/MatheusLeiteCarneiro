@@ -8,25 +8,23 @@
 --- 
 
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00bdff&text=Main%20Skills&height=60&fontSize=30" alt="Main Skills" />
-
-  <br>
-  
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Hibernate" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" />
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="JUnit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" />
-  <img align="center" alt="Swagger" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
-  <img align="center" alt="IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img align="center" alt="Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
   <br><br>
-
+  <table><tr>
+    <td><img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></td>
+    <td><img alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></td>
+    <td><img alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
+    <td><img alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></td>
+    <td><img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></td>
+    <td><img alt="JUnit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" /></td>
+    <td><img alt="Swagger" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" /></td>
+    <td><img alt="IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /></td>
+    <td><img alt="Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /></td>
+    <td><img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
+  </tr></table>
+  <br><br>
 </div>
+
 
 ---
 <div align="center">
