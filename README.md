@@ -28,11 +28,14 @@
     <img alt="PostgreSQL" height="45" width="45" hspace="8" vspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img alt="MySQL" height="45" width="45" hspace="8" vspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img alt="Docker" height="45" width="45" hspace="8" vspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img alt="JUnit" height="45" width="45" hspace="8" vspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
     <img alt="Linux" height="45" width="45" hspace="8" vspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img alt="Git" height="45" width="45" hspace="8" vspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img alt="Swagger" height="45" width="45" hspace="8" vspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
     <img alt="Postman" height="45" width="45" hspace="8" vspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
     <img alt="IntelliJ IDEA" height="45" width="45" hspace="8" vspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+    
+          
   </p>
 
 </div>
