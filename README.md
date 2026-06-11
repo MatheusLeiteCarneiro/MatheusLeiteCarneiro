@@ -2,9 +2,7 @@
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=00bdff&size=30&center=true&vCenter=true&width=800&lines=Matheus+Leite+Carneiro;Backend+Java+Developer;Software+Engineering+Student+at+FIAP" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=00bdff&size=30&center=true&vCenter=true&width=800&lines=Matheus+Carneiro;Backend+Java+Developer;Software+Engineering+Student+at+FIAP" alt="Typing SVG" /></a>
 
 </div>
 
@@ -20,7 +18,7 @@
 
 <div align="center">
 
-  <h2>Main Skills</h2>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00bdff&text=Main%20Skills&height=70&fontSize=30" alt="Main Skills" />
 
   <p align="center">
     <img alt="Java" height="45" width="45" hspace="8" vspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -34,8 +32,6 @@
     <img alt="Swagger" height="45" width="45" hspace="8" vspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
     <img alt="Postman" height="45" width="45" hspace="8" vspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
     <img alt="IntelliJ IDEA" height="45" width="45" hspace="8" vspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-    
-          
   </p>
 
 </div>
@@ -44,21 +40,21 @@
 
 <div align="center">
 
-  <h2>About Me</h2>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00bdff&text=About%20Me&height=70&fontSize=30" alt="About Me" />
 
-  <p>
+  <p align="center">
     I’m a Software Engineering student at FIAP.
   </p>
 
-  <p>
+  <p align="center">
     My current focus is backend development with Java and Spring.
   </p>
 
-  <p>
+  <p align="center">
     I enjoy understanding how systems work internally and building clean, well-structured solutions.
   </p>
 
-  <p>
+  <p align="center">
     I’m constantly learning and evolving as a developer.
   </p>
 
@@ -66,16 +62,6 @@
 
 ---
 
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/matheusleitecarneiro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00bdff" alt="LinkedIn">
-  </a>
-
-  <a href="mailto:dev.matheuscarneiro@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00bdff" alt="Gmail">
-  </a>
-
-</div>
+<p align="center"><a href="https://www.linkedin.com/in/matheusleitecarneiro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:dev.matheuscarneiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bdff&height=120&section=footer"/>
